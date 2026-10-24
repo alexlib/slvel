@@ -5,3 +5,4 @@ pip-log.txt
 .ipynb_checkpoints/
 *.pdf
 docs/source/_templates/
+uv.lock
